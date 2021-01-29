@@ -28,7 +28,7 @@
 
 ---
 
-## Frameworks
+## Frameworks and Libs
 
 ### Backend
 
@@ -49,16 +49,16 @@
 
 ### Frontend
 
-<a href="https://reactnative.dev/" target="_blank" >
-  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react"/> 
-</code>  </a>
+
 <a href="https://angular.io/" target="_blank" >
   <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" /> 
 </code>  </a>
 <a href="https://reactnative.dev/" target="_blank" >
   <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="reactnative" /> 
 </code>  </a>
-
+<a href="https://reactnative.dev/" target="_blank" >
+  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react"/> 
+</code>  </a>
 ### Tests
 
 <a href="https://www.cypress.io" target="_blank" >
