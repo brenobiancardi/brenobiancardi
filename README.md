@@ -5,7 +5,6 @@
 
 ## What I'm currently doing
 
-1. [Refactoring a project and learning about NestJS](https://github.com/brenobiancardi/Node-Angular-Endereco)
 1. Learning about Tests and TDD.
 1. Learning about Redux.
 1. Learning about S.O.L.I.D and good practices of development.
