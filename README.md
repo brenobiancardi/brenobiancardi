@@ -5,9 +5,8 @@
 
 ## What I'm currently doing
 
-1. Learning about Tests and TDD.
-1. Learning about Redux.
-1. Learning about S.O.L.I.D and good practices of development.
+1. Soft Skils
+2. Azure
 
 ---
 
