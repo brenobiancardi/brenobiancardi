@@ -72,7 +72,7 @@
 ## SGBDs
 
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" >  
-  <code><img height="50" src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" alt="mssql" /> 
+  <code><img height="50" src="https://code.benco.io/icon-collection/azure-icons/SQL-Server.svg" alt="mssql" /> 
 </code>  </a>
 <a href="https://www.oracle.com/" target="_blank" >
   <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" />
