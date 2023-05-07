@@ -5,7 +5,7 @@
 
 ## What I'm currently doing
 
-1. Soft Skils
+1. Soft Skills
 2. Azure
 
 ---
@@ -95,13 +95,6 @@
 
 ### Connect with me:
 
-<a href="https://www.linkedin.com/in/breno-biancardi/" target="_blank"  >
-  <code>
-    <img height="50" alt="Linkedin" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />
-  </code> 
-</a>
-<a href="https://web.digitalinnovation.one/users/brenobiancardi" target="_blank"  >
-  <code>
-    <img height="50" alt="Digital Inovation One" src="https://hermes.digitalinnovation.one/site/images/logo-white.png"/>
-  </code>   
-</a>
+<a href="https://www.linkedin.com/in/breno-biancardi/" target="_blank" >
+  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="Linkedin" />
+</code>  </a>
