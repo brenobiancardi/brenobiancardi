@@ -1,100 +1,47 @@
 <h1 align="center">Hi 🖖, I'm Breno Biancardi ⚡</h1>
-<h3 align="center">📚A developer in development🛠</h3>
 
----
-
-## What I'm currently doing
-
-1. Soft Skills
-2. Azure
-
----
-
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenobiancardi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+  alt="Github Stats"
+/>
 ## Languages
 
-<a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank"  >
-  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp"/>
-</code> 
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" >
-  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript"/></code> 
-</a>
-<a href="https://www.typescriptlang.org/" target="_blank"  >
-  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" /> 
-</code> 
-</a>
-
----
+<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-line.svg" alt="CSharp"/></code>
+<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go"/></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
 
 ## Frameworks and Libs
 
 ### Backend
 
-<a href="https://dotnet.microsoft.com/" target="_blank"  >
-  <code>
-    <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="dotnet" />
-  </code> 
-</a>
-<a href="https://nodejs.org" target="_blank"  >
-<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs"/>
-</code>  </a>
-<a href="https://expressjs.com" target="_blank"  >
-<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" />
-</code>  </a>
-<a href="https://nodejs.org" target="_blank"  >
-<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="NestJS"/>
-</code>  </a>
+<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-plain-wordmark.svg" alt="DotNet"/></code>
+<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs"/></code>
+<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" /></code>
+<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original-wordmark.svg" alt="NestJS"/></code>
 
 ### Frontend
 
-<a href="https://angular.io/" target="_blank" >
-  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" /> 
-</code>  </a>
-
-### Tests
-
-<a href="https://www.cypress.io" target="_blank" >
-  <code><img height="50" src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress"/> 
-</code>  </a>
-<a href="https://jestjs.io/" target="_blank" >
-  <code><img height="50" src="https://miro.medium.com/max/600/1*i37IyHf6vnhqWIA9osxU3w.png" alt="jestjs"/> 
-</code>  </a>
-
----
+<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="NextJS"/></code>
+<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original-wordmark.svg" alt="Angular"/></code>
 
 ## SGBDs
 
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" >  
-  <code><img height="50" src="https://code.benco.io/icon-collection/azure-icons/SQL-Server.svg" alt="mssql" /> 
-</code>  </a>
-<a href="https://www.oracle.com/" target="_blank" >
-  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" />
-</code>  </a>
-
----
+<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" alt="Microsoft SQL Server"/></code>
+<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle"/></code>
+<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongoDB"/></code>
 
 ## Tools
 
-<a href="https://www.docker.com/" target="_blank" >
-  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" /> 
-</code>  </a>
-<a href="https://git-scm.com/" target="_blank" >
-  <code><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" /> 
-</code>  </a>
-<a href="https://www.linux.org/" target="_blank" >
-  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" />
-</code>  </a>
-<a href="https://www.npmjs.com/" target="_blank" >
-  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="NPM" />
-</code>  </a>
-<a href="https://yarnpkg.com/" target="_blank" >
-  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg" alt="yarn" />
-</code>  </a>
-
----
-
+<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" /></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" /> </code>
+<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" /></code>
+<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original-wordmark.svg" alt="kafka" /></code>
+<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original-wordmark.svg" alt="RabbitMQ" /></code>
 ### Connect with me:
 
 <a href="https://www.linkedin.com/in/breno-biancardi/" target="_blank" >
   <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="Linkedin" />
 </code>  </a>
+
+---
